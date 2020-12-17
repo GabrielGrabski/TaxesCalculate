@@ -1,0 +1,13 @@
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.exe
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.deps.json
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.runtimeconfig.json
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.runtimeconfig.dev.json
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.dll
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.pdb
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.csprojAssemblyReference.cache
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.AssemblyInfoInputs.cache
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.AssemblyInfo.cs
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.dll
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.pdb
+C:\Users\Grabski\source\repos\TaxCalculation\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.genruntimeconfig.cache
